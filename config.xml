@@ -16,5 +16,7 @@
   <author href="https://www.ceezak.com" email="mrangad007@gmail.com">
       Angad Singh
   </author>
-
+  <platform name="android">
+    <icon src="icon.png" />
+  </platform>
 </widget>
